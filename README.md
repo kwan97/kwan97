@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=About_kwan97&fontSize=90" />
+
 <div align=center>
-	<h3> My Tech Stack </h3>
-	<p>Platforms & Languages✨</p>
+	<h3> **My Tech Stack** </h3>
+	<p>Platforms & Languages🧑‍💻</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -32,7 +34,7 @@
 </div>
 <br>
 <div align=center>
-	<p>Blog & Portfolio 🎨</p>
+	<p>Blog & Portfolio🚩</p>
 </div>
 <div align=center>
 	<a href="https://yermi.co.kr">
