@@ -1,8 +1,15 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwan97&count_bg=%231686AE&title_bg=%23000000&icon=realm.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwan97&count_bg=%231686AE&title_bg=%23000000&icon=realm.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
 
 <div align=center>	
 	<h3> 안녕하세요, 주니어 백엔드 개발자 김규관입니다👋</h3>
+</div>	
+<div align=center>
+	<a href="https://kwan97.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<img src="https://img.shields.io/badge/kwankyu97@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </div>
+<br>
 
 <div align="center">
 	<strong><p>🧑‍💻Languages & Framework</p>
@@ -38,18 +45,12 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<div align=center>
-	<p>🚩My blog</p>
-</div>
-<div align=center>
-	<a href="https://kwan97.tistory.com/">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-</div>
 
+
+<!--
 <br>
 <br>
-<!-- 	
+ 	
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwan97&layout=compact"><br><br>
 </div> -->
