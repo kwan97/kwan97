@@ -1,9 +1,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwan97&count_bg=%231686AE&title_bg=%23000000&icon=realm.svg&icon_color=%23E7E7E7&title=방문자&edge_flat=false"/></a> 
 
 <div align=center>	
-	<h3> 안녕하세요, 주니어 개발자 김규관입니다👋</h3>
-	<h4> 많이 부족하지만 많은 분들과 공유할 수 있도록<br> 
-		열심히 공부하고 잔디 심어 보겠습니다!</h4>
+	<h3> 안녕하세요, 주니어 개발자 김규관입니다👋 </h3>
+	<h4> It's not enough, but I can share it with many people
+I will study hard and plant a lawn! </h4>
 </div>	
 <div align=center>
 	<a href="https://kwan97.tistory.com/">
