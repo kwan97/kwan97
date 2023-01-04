@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwan97&count_bg=%231686AE&title_bg=%23000000&icon=realm.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
 
 <div align=center>	
-	<h3> 안녕하세요, 주니어 백엔드 개발자 김규관입니다👋</h3>
+	<h3> 안녕하세요, 주니어 개발자 김규관입니다👋</h3>
 	<p> 많이 부족하지만 많은 분들이 참고 할 수 있는 코더가 되었길 바라며 열심히 잔디 심어 보겠습니다!</p>
 </div>	
 <div align=center>
