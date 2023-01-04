@@ -2,7 +2,7 @@
 
 <div align=center>	
 	<h3> 안녕하세요, 주니어 개발자 김규관입니다👋</h3>
-	<p> 많이 부족하지만 많은 분들과 공유할 수 있게 열심히 잔디 심어 보겠습니다!</p>
+	<h4> 많이 부족하지만 많은 분들과 공유할 수 있게 열심히 잔디 심어 보겠습니다!</h4>
 </div>	
 <div align=center>
 	<a href="https://kwan97.tistory.com/">
