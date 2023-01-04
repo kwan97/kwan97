@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwan97&count_bg=%231686AE&title_bg=%23000000&icon=realm.svg&icon_color=%23E7E7E7&title=방문자&edge_flat=false"/></a> 
 
 <div align=center>	
-	<h3> Hello, this is junior developer kyu-kwan Kim👋 </h3>
+	<h3> Hello, I'm Junior Developer Kyu-Kwan Kim👋 </h3>
 	<h4> To share a lot of information with you<br>
 		I will study hard and commit! </h4>
 </div>	
