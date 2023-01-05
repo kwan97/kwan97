@@ -28,14 +28,14 @@
 <br>
 
 <div align="center">	
-	<p>🌐Server</p>
+	<strong><p>🌐Server</p></strong>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
 <div align=center>
-	<p>🛠Tools</p>
+	<strong><p>🛠Tools</p></strong>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
