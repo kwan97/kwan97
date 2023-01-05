@@ -11,10 +11,9 @@
 	</a>
 	<img src="https://img.shields.io/badge/kwankyu97@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </div>
-<br>
 
 <div align="center">
-	<strong><p>🧑‍💻Languages & Framework</p></strong>
+	<strong><h3>🧑‍💻Languages & Framework</h3></strong>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
@@ -25,19 +24,17 @@
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />	
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
 </div>
-<br>
 
 <div align="center">	
-	<strong><p>🌐Server</p></strong>
+	<strong><h3>🌐Server</h3></strong>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
-<br>
-<div align=center>
-	<strong><p>🛠Tools</p></strong>
+	
 </div>
 <div align=center>
+	<strong><h3>🛠Tools</h3></strong>
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
@@ -49,10 +46,7 @@
 <br>
 
 
-<!--
-<br>
-<br>
- 	
+<!--	
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwan97&layout=compact"><br><br>
 </div> -->
