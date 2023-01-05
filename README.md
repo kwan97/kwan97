@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwan97&count_bg=%233D86C8&title_bg=%23151414&icon=&icon_color=%23E7E7E7&title=Today-visitors&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwan97&count_bg=%233D86C8&title_bg=%23151414&icon=&icon_color=%23E7E7E7&title=today/total&edge_flat=false"/></a>
 
 <div align=center>	
 	<h3> Hello, I'm Junior Developer Kyu-Kwan Kim👋 </h3>
