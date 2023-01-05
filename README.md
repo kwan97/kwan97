@@ -2,7 +2,7 @@
 
 <div align=center>	
 	<h3> Hi, I'm Junior Developer Kyu-Kwan Kim👋 </h3>
-	<h3> To share a lot of information with you, I will study hard and commit! </h3>
+	<h3> To share a lot of information with you, I will study hard and commit </h3>
 </div>	
 
 <div align=center>
