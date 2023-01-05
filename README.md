@@ -2,9 +2,9 @@
 
 <div align=center>	
 	<h3> Hi, I'm Junior Developer Kyu-Kwan Kim👋 </h3>
-	<h4> To share a lot of information with you, 
-		I will study hard and commit! </h4>
+	<h4> To share a lot of information with you, I will study hard and commit! </h4>
 </div>	
+
 <div align=center>
 	<a href="https://kwan97.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
