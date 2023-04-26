@@ -35,14 +35,14 @@
 </div>
 	
 </div>
-<div align=center>
+<!-- <div align=center>
 	<strong><h3>🛠DevOps & Tooling</h3></strong>
 	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 	<br>	
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />	
-</div>
+</div> -->
 <!--	
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwan97&layout=compact"><br><br>
